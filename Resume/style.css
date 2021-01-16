@@ -1,0 +1,9 @@
+body {
+    margin: 5%;
+    background: scroll;
+    background-color:#f4f4f4;
+    border: 2em;
+}
+header {
+    text-transform: capitalize;
+}
