@@ -1,9 +1,18 @@
-body {
-    margin: 5%;
+body{
+    margin: 1%;
     background: scroll;
     background-color:#f4f4f4;
-    border: 2em;
 }
-header {
+header{
+    text-align: center;
+    font: 16px serif rgba(44, 58, 53, 0.336);
     text-transform: capitalize;
+    background-color:bisque;
+    border-style: solid;
+    border-color: rgb(158, 115, 59);
+    border-bottom-width: 1em;
+    border-bottom-color:rgb(158, 115, 59);
+    text-decoration: none;
+    border-radius: 100%;
+    word-spacing: 2px;
 }
